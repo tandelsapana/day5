@@ -1,0 +1,24 @@
+h1{
+    background-color: blue;
+    color: brown;
+}
+h2{
+    background-color: blueviolet;
+    color: blue;
+}
+h3,p,span{
+    background-color: aqua;
+    color:green ;
+}
+.accounts {
+    background-color: aqua;
+    color: antiquewhite;
+    margin: 3px;
+}
+#ceo{
+    background-color: aquamarine;
+    color: aqua;
+}
+#spec{
+    background-color: aqua;
+}
